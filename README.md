@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently pursuing Bachelor of Computer Applications at St. Joseph's College (Autonomous), Irinjalakuda<br>👯 I’m looking to collaborate on Google-related projects, tools, or learning groups<br>🤝 I’m looking for help with improving my coding skills and exploring new tech<br>🌱 I’m currently learning concepts in computer applications, Python, machine learning, and web development<br>💬 Ask me about Python basics, machine learning concepts, data science, or project ideas<br>⚡ Fun fact: I enjoy exploring tech topics and can turn any small idea into a creative project!
+🔭 I’m currently pursuing Bachelor of Computer Applications at St. Joseph's College (Autonomous), Irinjalakuda<br>👯 I’m looking to collaborate on Google-related projects, tools, or learning groups<br>🤝 I’m looking for help with improving my coding skills and exploring new tech<br>🌱 I’m currently learning concepts in computer applications, Python, machine learning, and web development<br>💬 Ask me about Python basics, machine learning concepts, data science, or project ideas<br>⚡ Fun fact: I enjoy exploring tech topics and wants to turn any small idea into a creative project!
 
 
 ## 🌐 Socials:
